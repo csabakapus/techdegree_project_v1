@@ -192,6 +192,10 @@ a.social:hover {
   border-radius: 5px;
 }
 
+.gallery_image:hover {
+  border: 2px solid #00B200;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
